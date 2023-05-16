@@ -1,4 +1,15 @@
-.App {
+.container {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+button:hover {
+  background-color: #b581b8;
+  border-radius: 5px;
+}
+
+
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +46,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
